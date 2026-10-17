@@ -8,4 +8,6 @@ i also made this [cute cat pomodoro timer](https://pawl.cat) so check it out may
 
 i use [mux](https://github.com/schmayterling/mux) to work with ai, pretty cool honestly
 
+in addition to the above, i'm also working on [viquery](https://github.com/schmayterling/viquery) for better media search
+
 tschuss
