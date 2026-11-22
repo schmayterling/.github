@@ -1,13 +1,14 @@
-https://ryanaque.com
+https://ryana.dev
 
-use [hibi](https://hibi.garden), my writing app for cool points
+i use [hibi](https://hibi.garden) to write my stuff for my site
 
-i post stuff on [twitter](https://x.com/schmayterling) and blog once in a blue moon on my site
+other stuff i've worked on:
+- [cute cat pomodoro timer](https://pawl.cat)
 
-i also made this [cute cat pomodoro timer](https://pawl.cat) so check it out maybe
+active in:
+- design/frontend twitter
+- database repositories (primarily turso)
+- self-hosted subreddits
 
-i use [mux](https://github.com/schmayterling/mux) to work with ai, pretty cool honestly
-
-in addition to the above, i'm also working on [viquery](https://github.com/schmayterling/viquery) for better media search
-
-tschuss
+follow me elsewhere:
+- [twitter](https://x.com/schmayterling)
