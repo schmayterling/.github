@@ -13,4 +13,4 @@ active in:
 - self-hosted subreddits
 
 follow me elsewhere:
-- [twitter](https://x.com/schmayterling)
+- [twitter](https://x.com/schmayterling) | [linkbed](https://linkbed.me/schmayterling)
