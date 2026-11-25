@@ -3,7 +3,9 @@ https://ryana.dev
 i use [hibi](https://hibi.garden) to write my stuff for my site
 
 other stuff i've worked on:
-- [cute cat pomodoro timer](https://pawl.cat)
+- [pawl - a cute cat pomodoro timer](https://pawl.cat)
+- [uppies - a cute and self-hostable uptime monitor](https://github.com/schmayterling/uppies)
+- [linkbed - a self-hostable carrd alternative](https://linkbed.me)
 
 active in:
 - design/frontend twitter
